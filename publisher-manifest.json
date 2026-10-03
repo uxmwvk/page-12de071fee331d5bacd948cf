@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "08a064afbc9cc17a801e5b8b",
+  "owner": "uxmwvk",
+  "repo": "page-12de071fee331d5bacd948cf",
+  "title": "LEOWIKI",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "12de071fee331d5bacd948cf",
+      "a": "LEOWIKI",
+      "b": "",
+      "entity": "LEOWIKI",
+      "brand": "LEOWIKI",
+      "separator": "",
+      "path": "index.html",
+      "hash": "fb05ed9620ea2321a84c1bc166c3ef5df0faecffa0295cd885ce3a7b1db264ba",
+      "content": {
+        "keyword1": "LEOWIKI",
+        "keyword2": "",
+        "primary_entity": "LEOWIKI",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "LEOWIKI提供机场订阅与VPN网络加速服务，支持多设备客户端下载与节点切换，覆盖流媒体、游戏与跨境办公场景，欢迎访问官网查看套餐与操作说明。",
+          "AI_DESCRIPTION": "LEOWIKI提供机场订阅与VPN网络加速服务，支持多设备客户端下载与节点切换，覆盖流媒体、游戏与跨境办公场景，欢迎访问官网查看套餐与操作说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.7;color:#1c2419;background:#F6F3EB;overflow-x:hidden}a{color:#2D6A4F}header,footer,.hero,.panel{width:100%}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}header{background:#1B4332;color:#F6F3EB;padding:14px 0} .brand{font-size:22px;font-weight:700;letter-spacing:.04em}nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:8px}nav a{color:#E8F5E9;text-decoration:none;font-size:14px}main{padding:8px 0 24px}h1{font-size:26px;color:#1B4332;margin:18px 0 10px;line-height:1.35}h2{font-size:22px;color:#1B4332;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #2D6A4F}h3{font-size:18px;color:#2D6A4F;margin:16px 0 8px}p,li{margin-bottom:10px}ul{padding-left:1.2em}.lead{font-size:17px}.cards{display:flex;flex-wrap:wrap;gap:12px;align-items:stretch}.card{flex:1 1 280px;background:#FFFEF8;border:1px solid #D4C9B0;border-radius:8px;padding:16px;min-width:0}.card.featured{border:3px solid #2D6A4F;background:#EEF6F0}.tag{display:inline-block;background:#1B4332;color:#F6F3EB;font-size:12px;padding:2px 8px;border-radius:4px;margin-bottom:8px}.price{font-size:22px;font-weight:700;color:#1B4332}.annual{font-size:13px;color:#4A5C50;margin-bottom:8px}details{background:#FFFEF8;border:1px solid #D4C9B0;border-radius:6px;padding:10px 14px;margin-bottom:8px}summary{font-weight:600;color:#1B4332}.adbox{background:#E8F0EA;border:1px dashed #2D6A4F;padding:14px;margin:20px 0;border-radius:6px}.friends{display:flex;flex-wrap:wrap;gap:8px 16px}.friends a{color:#2D6A4F;text-decoration:none}.maplist a{display:inline-block;margin:0 12px 8px 0;color:#2D6A4F}footer{background:#1B4332;color:#E8F5E9;padding:20px 0;margin-top:28px;font-size:14px}footer a{color:#B7E4C7}ol{padding-left:1.3em}@media (max-width:640px){h1{font-size:22px}h2{font-size:19px}.card{flex:1 1 100%}.brand{font-size:20px}}</style><header><div class=\"wrap\"><div class=\"brand\">LEOWIKI</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#nodes\">节点线路</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main><div class=\"wrap\"><section class=\"hero\" id=\"intro\"><h1>LEOWIKI 官方网站：机场订阅与VPN网络加速</h1><p class=\"lead\">LEOWIKI 面向需要稳定跨境访问的用户，提供机场订阅与 VPN 网络加速能力。你可以在官网选择套餐、获取订阅并导入主流客户端，用于流媒体解锁、游戏加速、远程办公与资料访问。本站为 LEOWIKI 官方网站，集中展示套餐对比、客户端下载指引与操作说明。</p><p>服务定位清晰：用订阅连接全球节点池，按套餐分配流量、同时在线设备数与线路等级。基础版覆盖日常浏览与基础流媒体；旗舰版强化原生解锁与 IPLC 游戏体验；团队版面向多设备与定制路由。所有说明以本页正文为准，便于对照选择。</p></section><section id=\"plans\"><h2>套餐对比与价格</h2><p>以下为 LEOWIKI 现行公开套餐。按年付可锁定全年价格，适合长期使用机场订阅的用户。请按流量、设备数与线路需求对照，再进入客户端完成导入。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p>适合轻度浏览、邮件与基础影音。节点以通用线路为主，高峰期可通过客户端测速后手动切换。</p></article><article class=\"card featured\"><p class=\"tag\">推荐对照</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p>个人主力档。原生解锁覆盖更完整，游戏与实时通讯可走 IPLC，工单通道优先处理订阅与线路问题。</p></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p>适合工作室与小团队共用一条机场订阅。可按业务拆分路由，避免办公与娱乐抢占同一出口。</p></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>将订阅导入客户端后，选择标注解锁的节点即可访问常见国际流媒体。基础版提供基础解锁；旗舰版与团队版强调全节点原生策略，减少因公共出口导致的地区限制。建议先完成一次连通测试，再打开播放应用。</p><h3>游戏与实时对战</h3><p>对延迟敏感的游戏，优先使用旗舰版 IPLC 专线。专线用于降低绕路跳数，适合需要稳定会话的对战与语音。团队版 VIP 高带宽节点可在多人同时在线时保持出口容量。</p><h3>跨境办公与协作</h3><p>远程桌面、代码仓库、设计协作与会议软件可通过分流规则只加速境外域名，国内站点直连。团队版支持定制路由，把办公网段与个人设备分开，降低误伤内网服务的风险。</p><h3>学习、资料与多设备同步</h3><p>学术站点、文档库与网盘同步适合分配在普通或高带宽节点。注意套餐设备上限：基础版 3 台、旗舰版 5 台、团队版 20 台。超出后应下线闲置终端或升级套餐。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>获取机场订阅</h3><ol><li>在本页对照套餐流量、设备数与线路类型，确定基础版、旗舰版或团队版。</li><li>完成开通后，在用户中心复制订阅链接。链接用于客户端自动拉取节点与规则，请勿公开传播。</li><li>若选择年付，价格以页面标注为准：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。</li></ol><h3>导入客户端</h3><p>Windows 与 macOS 常用 Clash 系或 v2rayN；Android 可用 Clash Meta 类应用；iOS 可用 Shadowrocket、Stash、Quantumult X 等。打开客户端的订阅栏，粘贴 LEOWIKI 订阅地址，更新节点列表，开启系统代理或 VPN 模式。首次建议选择延迟较低的邻近区域节点，再按应用做分流。</p><h3>日常切换与排障</h3><p>播放卡顿或游戏掉线时，先更新订阅，再对节点测速。避免同时开启多个系统代理。若设备超限，客户端会表现为反复重连，此时关闭多余终端即可。工单优先通道面向旗舰版与团队版，说明套餐名称、客户端版本与错误提示，便于定位。</p></section><section id=\"download\"><h2>客户端下载与官网指引</h2><p>LEOWIKI 本身提供机场订阅，终端软件请使用各平台常用开源或正规商店客户端。以下为官方网站整理的下载与配置入口，全部为页内说明，避免来路不明的安装包。</p><h3 id=\"windows\">Windows</h3><p>推荐 Clash 内核图形客户端或 v2rayN。安装后选择订阅 URL 导入，开启 TUN 或系统代理。企业环境若有本地代理策略，先关闭再测试 LEOWIKI 节点。</p><h3 id=\"mac\">macOS</h3><p>可使用 ClashX.Meta 或 Surge。导入订阅后检查 DNS 与分流规则，避免国内视频被误加速。笔记本在休眠恢复后如无法联网，刷新订阅并重启内核。</p><h3 id=\"android\">Android</h3><p>使用支持订阅的 Clash Meta 客户端。授权 VPN 权限后更新节点。移动网络与 Wi-Fi 切换时，允许应用自启动以保持会话。</p><h3 id=\"ios\">iOS</h3><p>通过 App Store 获取 Shadowrocket、Stash 或 Quantumult X，在配置页粘贴 LEOWIKI 订阅。按需开启按应用代理，降低耗电。</p><h3 id=\"linux\">Linux</h3><p>命令行可用 clash / mihomo，桌面环境可用图形前端。导入后检查防火墙是否放行本地混合端口。服务器场景建议仅对需要出站的进程启用代理。</p><p><a href=\"#guide\">返回操作说明</a> · <a href=\"#plans\">返回套餐对比</a></p></section><section id=\"nodes\"><h2>节点线路与性能说明</h2><p>LEOWIKI 节点池覆盖香港、日本、新加坡、台湾、美国与欧洲等常用出口。基础版使用普通线路节点池，满足浏览与基础流媒体；旗舰版开放全节点原生解锁，并提供 IPLC 游戏加速优化；团队版另有 VIP 高带宽节点，适合大流量同步。</p><p>实际体验受本地宽带、时段与目标站点影响。建议在客户端内按延迟与丢包筛选，把流媒体、游戏、办公分别指向不同类型节点。高峰期优先旗舰与团队线路调度。本页不展示评分或用户评论，仅说明官方套餐对应的线路能力，便于你自行对照。</p><p>若需企业定制路由，团队版可按域名、IP 段或应用拆分出口，把办公 SaaS 与娱乐流量隔离，减少会话互相抢占。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>LEOWIKI 是官方机场吗？如何确认官网？</summary><p>是的。本页为 LEOWIKI 官方网站，用于公布套餐、订阅使用方式与客户端下载指引。请通过本站提供的说明获取订阅，不要在来源不明的页面填写账号或下载所谓破解客户端。</p></details><details><summary>怎样完成客户端下载并导入机场订阅？</summary><p>先在本页客户端下载章节选择系统，安装正规客户端，再将用户中心的订阅链接粘贴到订阅栏并更新。导入成功后开启代理，选择延迟较低的节点即可访问。详细步骤见操作说明。</p></details><details><summary>基础版、旗舰版和团队版应如何选择？</summary><p>轻度使用选基础版：100GB、3 台设备、普通线路。个人主力选旗舰版：300GB、5 台设备、原生解锁与 IPLC。多人共用或需要定制路由选团队版：1000GB、20 台设备与专属支持。按年付价格分别为 ¥150、¥350、¥850。</p></details><details><summary>能否用于流媒体解锁和游戏加速？</summary><p>可以。基础版覆盖基础流媒体；旗舰版强调全节点原生解锁，并用 IPLC 优化游戏。团队版以高带宽节点支撑多人同时在线。具体可用性仍取决于目标平台策略，播放前请先切换对应区域节点。</p></details><details><summary>设备数量超限或流量用尽怎么办？</summary><p>同时在线超过套餐上限会出现反复断线，关闭闲置设备或升级即可。流量按自然月重置，用尽后加速失效，可等待重置或调整套餐。不要把同一订阅分享到公开群组，以免被异常用量耗尽。</p></details><details><summary>年付如何生效，能否中途变更套餐？</summary><p>年付按页面标注一次性覆盖十二个月，适合长期使用 VPN 加速器的用户。变更套餐通常在当前周期结束后生效，或以差价规则由客服确认。旗舰与团队用户可通过优先工单咨询路由与发票类问题。</p></details></section><section id=\"ads\" class=\"adbox\"><h2>合作信息位</h2><p>LEOWIKI 官网信息位用于展示与网络加速相关的工具说明、客户端手册入口与跨境办公资料索引。如需了解套餐对照或下载步骤，请使用页内锚点，无需离开本站。</p><p><a href=\"#download\">前往客户端下载说明</a> · <a href=\"#plans\">查看套餐对比</a></p></section><section id=\"friends\"><h2>友情链接</h2><div class=\"friends\"><a href=\"#intro\">LEOWIKI官网</a><a href=\"#download\">客户端手册</a><a href=\"#nodes\">节点线路说明</a><a href=\"#guide\">机场订阅教程</a><a href=\"#faq\">加速器问答</a><a href=\"#sitemap\">网站地图</a></div></section><section id=\"sitemap\"><h2>网站地图</h2><p class=\"maplist\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#windows\">Windows</a><a href=\"#mac\">macOS</a><a href=\"#android\">Android</a><a href=\"#ios\">iOS</a><a href=\"#linux\">Linux</a><a href=\"#nodes\">节点与性能</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作信息</a><a href=\"#friends\">友情链接</a></p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>LEOWIKI 官方网站 · 机场订阅与 VPN 网络加速服务说明</p><p>本页提供套餐对比、操作说明与客户端下载指引，供用户在官方渠道完成配置。请合理使用网络加速能力，遵守所在地区与目标网站的使用规范。</p><p><a href=\"#intro\">返回顶部</a> · <a href=\"#sitemap\">网站地图</a></p></div></footer>",
+          "hash": "c39c2bdbd2fa6912c3b2cf41265b298e8e825eb3ee8165d72120db3b6e1bb42d",
+          "seo": {
+            "title": "LEOWIKI 官方网站 - 机场订阅、VPN加速器与客户端下载",
+            "keywords": "LEOWIKI,LEOWIKI机场,LEOWIKI VPN,LEOWIKI官网,机场订阅,VPN客户端下载,网络加速器,梯子,IPLC游戏加速,流媒体解锁",
+            "description": "LEOWIKI提供机场订阅与VPN网络加速服务，支持多设备客户端下载与节点切换，覆盖流媒体、游戏与跨境办公场景，欢迎访问官网查看套餐与操作说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "loeqciu.cn",
+    "host": "p-2438f93ace.loeqciu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "loeqciu.cn",
+      "url": "https://loeqciu.cn/",
+      "label": "Element",
+      "apex": "loeqciu.cn",
+      "kind": null,
+      "identity": "yjjocltc/page-9000f867076fe371066f5a29"
+    },
+    {
+      "host": "bnjxk.cn",
+      "url": "https://bnjxk.cn/",
+      "label": "LEOWIKI",
+      "apex": "bnjxk.cn",
+      "kind": null,
+      "identity": "vwuubtacf/page-64b0ff4168f931cb3c77faa3"
+    },
+    {
+      "host": "fscloudssr.com",
+      "url": "https://fscloudssr.com/",
+      "label": "LEOWIKI",
+      "apex": "fscloudssr.com",
+      "kind": null,
+      "identity": "urjypeggv/page-a261f5ace76a1dcfcf2dd603"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2075f1f35b5723a5f06ed36bb9985e8cc9cca64327a5525e8b13a3adab915de9",
+    "sitemap.xml": "ff86248a7cc6257b655e79dea40019feeecd4cec1036a9b8a1398739cdc5a80e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "453e0adaeb1e1b8b65d81236345984e4a03285f21d33fa1dc484d088e0d6e0cb",
+    "robots.txt": "324f9de79a9e51e16ea07507587cf2beb2dead8b147b1e63a394c59fd82c09f3",
+    "95c1091b193a5928004e58b675570508.txt": "633966b8540ceee6321f24f85320df9020cce7feccdac1a6b393d15c49c68f89"
+  },
+  "revision": "fa33238f91ebe67256b03d4b04f7fc3c89ca3a92added5e7fb1653bb915f09fc"
+}
